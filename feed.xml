@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Lab</title>
+    <link>https://scottacaldwel.github.io/learning-lab-feed/</link>
+    <atom:link href="https://scottacaldwel.github.io/learning-lab-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>A private sports show for Scott: Vols, SEC, Cardinals, fantasy notes, and Titans recaps.</description>
+    <itunes:summary>A private sports show for Scott: Vols, SEC, Cardinals, fantasy notes, and Titans recaps.</itunes:summary>
+    <itunes:author>Scott Caldwell</itunes:author>
+    <itunes:owner><itunes:name>Scott Caldwell</itunes:name></itunes:owner>
+    <itunes:image href="https://scottacaldwel.github.io/learning-lab-feed/cover.png"/>
+    <image><url>https://scottacaldwel.github.io/learning-lab-feed/cover.png</url><title>Learning Lab</title><link>https://scottacaldwel.github.io/learning-lab-feed/</link></image>
+    <itunes:category text="Sports"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Sun, 01 Nov 2026 14:24:50 GMT</lastBuildDate>
+
+  </channel>
+</rss>
